@@ -1,0 +1,4 @@
+id,name,city,effective_from,effective_to,is_current
+1,Alice,Seattle,2020-01-01,,True
+2,Bob,Portland,2020-01-01,,True
+3,Carol,San Francisco,2020-01-01,,True
